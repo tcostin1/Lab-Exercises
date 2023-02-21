@@ -1,0 +1,49 @@
+
+#g1{      
+    background-color: rgb(255, 253, 253);
+    border-radius: 25px;   #Chose this element to make my text box circular or rounded
+    #local
+
+}
+
+.t1{     
+    padding-left: 50px;
+    padding-right: 50px;
+    text-shadow: 10px 10px black;   #Added a shadow to my list of players
+    #local
+
+}
+
+div{     
+    text-align: center;
+    position: relative;  #Chose this element to change the position of my text box
+    #global
+}
+
+*{    
+    color: gold;
+    font-family: arial;
+    #global
+}
+
+.m1{    
+    margin-top: 50px;
+    margin-right: 50px;
+    #local
+}
+
+.m1{      
+    height: 40px;
+    width: 35px;
+    #local
+}
+
+.c1{    
+    border: 10px black
+    #local
+}
+
+img{    
+    border-radius: 50%;  #Choose this element to make my image circular
+    #global
+}
